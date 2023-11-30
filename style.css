@@ -1,7 +1,47 @@
 body {
-  background-color: choclate;
+  background: white;
+  font-family: fantasy;
+  color:#000000;
+}
+h1 {
+  
+  text-align: center
+  
 }
 
-h1 {
-  text-align: center;
+h2 {
+  text-align: center
 }
+
+h3 {
+  
+}
+
+p{
+  font-size: 17px
+}
+
+.Amogus {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+
+.AmogusSmol {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  
+}
+
+.AmogusLarge {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+
